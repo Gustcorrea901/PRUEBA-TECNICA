@@ -1,0 +1,5 @@
+com\gus\crudPruebaTecnica\UsuarioController.class
+com\gus\crudPruebaTecnica\UsuarioService.class
+com\gus\crudPruebaTecnica\UsuarioRepository.class
+com\gus\crudPruebaTecnica\CrudPruebaTecnicaApplication.class
+com\gus\crudPruebaTecnica\Usuario.class
